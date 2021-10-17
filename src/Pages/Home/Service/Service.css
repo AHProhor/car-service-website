@@ -1,0 +1,10 @@
+.serviceStyle {
+  background-color: rgb(181, 227, 245);
+  border-radius: 15px;
+}
+.serviceStyle img {
+  height: 500px;
+  width: 500px;
+  border-radius: 20px;
+  padding: 5px;
+}

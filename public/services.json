@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Replace Tire",
+    "price": "200",
+    "time": "2H",
+    "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem optio totam voluptatibus assumenda molestiae natus porro fuga, ducimus commodi sed vero blanditiis quae sunt neque quibusdam sit provident culpa aliquam.",
+    "img": "https://i.ibb.co/BBWZR24/Mechanic-fixing-car-at-car-service-station.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Replace Tire",
+    "price": "200",
+    "time": "2H",
+    "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem optio totam voluptatibus assumenda molestiae natus porro fuga, ducimus commodi sed vero blanditiis quae sunt neque quibusdam sit provident culpa aliquam.",
+    "img": "https://i.ibb.co/LCnnLp5/aaron-huber-Kxe-Fu-Xta4-SE-unsplash.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Replace Tire",
+    "price": "200",
+    "time": "2H",
+    "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem optio totam voluptatibus assumenda molestiae natus porro fuga, ducimus commodi sed vero blanditiis quae sunt neque quibusdam sit provident culpa aliquam.",
+    "img": "https://i.ibb.co/4TL43nZ/Car-mechanic-changing-wheels-in-car.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Replace Tire",
+    "price": "200",
+    "time": "2H",
+    "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem optio totam voluptatibus assumenda molestiae natus porro fuga, ducimus commodi sed vero blanditiis quae sunt neque quibusdam sit provident culpa aliquam.",
+    "img": "https://i.ibb.co/LgqmdBw/Car-mechanic-changing-wheels-in-car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Replace Tire",
+    "price": "200",
+    "time": "2H",
+    "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem optio totam voluptatibus assumenda molestiae natus porro fuga, ducimus commodi sed vero blanditiis quae sunt neque quibusdam sit provident culpa aliquam.",
+    "img": "https://i.ibb.co/nfbSKyM/Car-mechanic-polishing-car-before-painting.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Replace Tire",
+    "price": "200",
+    "time": "2H",
+    "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem optio totam voluptatibus assumenda molestiae natus porro fuga, ducimus commodi sed vero blanditiis quae sunt neque quibusdam sit provident culpa aliquam.",
+    "img": "https://i.ibb.co/hZnbVpy/Car-mechanic-wearing-a-white-uniform-stand-holding-wrench-isolated-on-gray-background-with-copy-spac.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Replace Tire",
+    "price": "200",
+    "time": "2H",
+    "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem optio totam voluptatibus assumenda molestiae natus porro fuga, ducimus commodi sed vero blanditiis quae sunt neque quibusdam sit provident culpa aliquam.",
+    "img": "https://i.ibb.co/rZm50mP/christian-buehner-Fd6osy-Vbt-G4-unsplash.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Replace Tire",
+    "price": "200",
+    "time": "2H",
+    "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem optio totam voluptatibus assumenda molestiae natus porro fuga, ducimus commodi sed vero blanditiis quae sunt neque quibusdam sit provident culpa aliquam.",
+    "img": "https://i.ibb.co/rMxMBR4/Man-polishing-car-inside-at-car-service.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Replace Tire",
+    "price": "200",
+    "time": "2H",
+    "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem optio totam voluptatibus assumenda molestiae natus porro fuga, ducimus commodi sed vero blanditiis quae sunt neque quibusdam sit provident culpa aliquam.",
+    "img": "https://i.ibb.co/qmCJ4GQ/Man-polishing-car-inside-at-car-service.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Replace Tire",
+    "price": "200",
+    "time": "2H",
+    "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem optio totam voluptatibus assumenda molestiae natus porro fuga, ducimus commodi sed vero blanditiis quae sunt neque quibusdam sit provident culpa aliquam.",
+    "img": "https://i.ibb.co/w6HY6ZJ/mechanic-man-in-uniform-holding-wrenches-in-the-auto-service-center-and-smiling-at-the-camera.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Replace Tire",
+    "price": "200",
+    "time": "2H",
+    "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem optio totam voluptatibus assumenda molestiae natus porro fuga, ducimus commodi sed vero blanditiis quae sunt neque quibusdam sit provident culpa aliquam.",
+    "img": "https://i.ibb.co/1fXsrwY/mechanic-servicing-car.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Replace Tire",
+    "price": "200",
+    "time": "2H",
+    "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem optio totam voluptatibus assumenda molestiae natus porro fuga, ducimus commodi sed vero blanditiis quae sunt neque quibusdam sit provident culpa aliquam.",
+    "img": "https://i.ibb.co/grCkJgQ/Repair-man-making-car-service.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Replace Tire",
+    "price": "200",
+    "time": "2H",
+    "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem optio totam voluptatibus assumenda molestiae natus porro fuga, ducimus commodi sed vero blanditiis quae sunt neque quibusdam sit provident culpa aliquam.",
+    "img": "https://i.ibb.co/mXwwbHz/Saleswoman-in-car-showroom-selling-cars.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Replace Tire",
+    "price": "200",
+    "time": "2H",
+    "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem optio totam voluptatibus assumenda molestiae natus porro fuga, ducimus commodi sed vero blanditiis quae sunt neque quibusdam sit provident culpa aliquam.",
+    "img": "https://i.ibb.co/vjvpqvy/tim-mossholder-V37i-Tr-YZz2-E-unsplash.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Replace Tire",
+    "price": "200",
+    "time": "2H",
+    "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem optio totam voluptatibus assumenda molestiae natus porro fuga, ducimus commodi sed vero blanditiis quae sunt neque quibusdam sit provident culpa aliquam.",
+    "img": "https://i.ibb.co/s2j62vL/Woman-took-her-car-to-change-tires.jpg"
+  }
+]
